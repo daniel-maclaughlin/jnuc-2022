@@ -24,3 +24,4 @@
 [Macnotes: download a cert chain](https://macnotes.wordpress.com/2019/10/19/download-a-cert-chain/)<br/>
 [Macnotes: User vs Machine certs](https://macnotes.wordpress.com/2021/01/25/user-vs-machine-certs-on-macos/)<br/>
 [Macnotes: SCEP proxy vs ADCS Connector](https://macnotes.wordpress.com/2020/11/17/jamf-scep-proxy-vs-adcs-connector/)<br/>
+[X.509 Encodings and Conversions](https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions)<br/>
